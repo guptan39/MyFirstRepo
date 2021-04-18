@@ -1,3 +1,17 @@
 cat
 deer
 goat
+dog
+lion
+pig
+tiger
+
+
+
+
+
+
+
+
+ant
+elephant
