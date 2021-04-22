@@ -2,5 +2,4 @@ piogeon
 crow
 bat
 owl
-croe
 peocock
