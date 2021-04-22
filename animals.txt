@@ -5,6 +5,7 @@ dog
 lion
 pig
 tiger
+cow
 
 
 
